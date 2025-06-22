@@ -1,0 +1,9 @@
+mediapipe>=0.10.5
+opencv-python
+PyQt5
+Pillow
+plyer
+matplotlib
+numpy
+pyttsx3
+pandas
