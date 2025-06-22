@@ -47,14 +47,14 @@ Kullanıcıların duruşlarını kamera üzerinden analiz ederek, anlık geri bi
 | `pandas`          | Veri işleme ve CSV log okuma/yazma işlemleri                             |
 
 ---
-
+````
 ## ⚙️ Kurulum ve Başlatma
 
 1. Gerekli kütüphaneleri yükleyin:
 
    ```bash
    pip install -r requirements.txt
-````
+
 
 2. Uygulamayı başlatın:
 
